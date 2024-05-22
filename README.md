@@ -1,1 +1,2 @@
-# Supply-Chain-Management-Using-Tableau
+# Supply-Chain-Management-Dashboard-Using-Tableau
+Developed a sophisticated Tableau dashboard for supply chain management, meticulously showcasing key performance indicators (KPIs) such as inventory levels, order fulfillment rates, and supplier performance metrics. This dynamic and interactive tool significantly enhances decision-making capabilities by providing clear, visually engaging insights. Leveraging Tableau's powerful visualization features, the dashboard transforms complex data into intuitive, actionable intelligence, thereby driving operational efficiency and strategic planning in supply chain management.
